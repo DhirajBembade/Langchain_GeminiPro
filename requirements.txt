@@ -1,0 +1,26 @@
+streamlit
+google-generativeai
+python-dotenv
+langchain
+PyPDF2
+watchdog
+#chromadb
+faiss-cpu
+langchain_google_genai
+
+
+#Streamlit--Streamlit is a Python library for creating web applications with minimal effort. It simplifies the process of turning data scripts into shareable web apps.
+ 
+#google-generativeai-- Specific details about "google-generativeai"
+
+#python-dotenv--python-dotenv is a Python library that helps in managing environment variables in a project by loading variables from a .env file into the os.environ dictionary.
+
+#langchain-- Specific details about "langchain" are not provided. It's not a widely known or recognized Python package. Please verify the name or provide more context for accurate information.
+
+#PyPDF2-- PyPDF2 is a Python library for reading and manipulating PDF files. It provides functionality for merging, splitting, and extracting information from PDF documents.
+
+#chromadb--Specific details about "chromadb" are not provided. It's not a widely known or recognized Python package. Please verify the name or provide more context for accurate information.
+
+#faiss-cpu--Faiss is a library for efficient similarity search and clustering of dense vectors. "faiss-cpu" likely refers to the CPU version of Faiss, suitable for running on systems without GPU support.
+
+#langchain_google_genai-- Acessing API of Google generativeai.
